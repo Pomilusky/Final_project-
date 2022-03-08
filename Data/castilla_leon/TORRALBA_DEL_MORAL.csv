@@ -1,0 +1,26 @@
+,nombre,location,distance,Entidad
+0,Supermercados La Plaza de Dia,"{'type': 'Point', 'coordinates': ['40.3972526', '-3.6945615']}",318.04283961158615,supermercado
+1,Carrefour Express,"{'type': 'Point', 'coordinates': ['40.3950193', '-3.6965673']}",318.08991029494916,supermercado
+2,Supermercados La Plaza de Dia,"{'type': 'Point', 'coordinates': ['40.3960578', '-3.6931541']}",318.2207550708146,supermercado
+3,Condis,"{'type': 'Point', 'coordinates': ['40.3991549', '-3.6865764']}",318.3900736315842,supermercado
+4,Supermercado Hiper Legazpi Venta Al Por Mayor,"{'type': 'Point', 'coordinates': ['40.3924528', '-3.6938551']}",318.4529822562886,supermercado
+5,Polideportivo La Baña,"{'type': 'Point', 'coordinates': ['42.3307969', '-6.6708789']}",13.466257101668486,polideportivo
+6,Golf De Meis,"{'type': 'Point', 'coordinates': ['42.2648421', '-6.6666701']}",14.796870720813711,polideportivo
+7,Polideportivo La Baña,"{'type': 'Point', 'coordinates': ['42.2654952', '-6.6683979']}",14.889793773839433,polideportivo
+8,Piscina Pública La Baña,"{'type': 'Point', 'coordinates': ['42.3760662', '-6.2395906']}",22.682443823645865,polideportivo
+9,Polideportivo,"{'type': 'Point', 'coordinates': ['42.4344924', '-6.8200936']}",28.37898930240467,polideportivo
+10,Hospital Universitario del Bierzo,"{'type': 'Point', 'coordinates': ['42.5417485', '-6.5938852']}",24.98778646193613,hospital
+11,Real Fundación Hospital de La Reina,"{'type': 'Point', 'coordinates': ['42.5420024', '-6.5934747']}",25.005292341464866,hospital
+12,Real Fundación Hospital de La Reina,"{'type': 'Point', 'coordinates': ['42.5722262', '-6.6434517']}",29.54104583884446,hospital
+13,Hospital Universitario de León,"{'type': 'Point', 'coordinates': ['42.5899395', '-5.5723982']}",82.12064095698196,hospital
+14,Hospital de la Reina-Urología,"{'type': 'Point', 'coordinates': ['42.6188257', '-5.5724149']}",83.30398396332237,hospital
+15,Centro de Salud,"{'type': 'Point', 'coordinates': ['42.2699523', '-6.5924122']}",9.408631952728967,centro de salud
+16,Centro de Salud,"{'type': 'Point', 'coordinates': ['42.2615117', '-6.4319199']}",9.510776914784605,centro de salud
+17,Ayuntamiento De Encinedo,"{'type': 'Point', 'coordinates': ['42.6013569', '-5.5575666']}",83.70756252786299,centro de salud
+18,Centro De Salud El Ejido,"{'type': 'Point', 'coordinates': ['41.5132504', '-5.732231']}",110.87561643026228,centro de salud
+19,Centro Salud Virgen de la Concha,"{'type': 'Point', 'coordinates': ['42.3421675', '-7.860352']}",111.26916826941414,centro de salud
+20,Estación de servicio Cepsa TRUCHAS,"{'type': 'Point', 'coordinates': ['42.254785', '-6.428763']}",10.251963748544968,gasolinera
+21,Estación de Servicio Repsol,"{'type': 'Point', 'coordinates': ['42.5578225', '-6.603073']}",26.916937587418968,gasolinera
+22,Estación de servicio Cepsa TRUCHAS,"{'type': 'Point', 'coordinates': ['42.4177883', '-6.8241748']}",27.95839288791845,gasolinera
+23,Carrefour,"{'type': 'Point', 'coordinates': ['42.0814163', '-6.6403206']}",29.37136960059903,gasolinera
+24,GASOLINERA EL PUENTE DE SANABRIA,"{'type': 'Point', 'coordinates': ['42.5883083', '-6.6756727']}",32.24546028403462,gasolinera

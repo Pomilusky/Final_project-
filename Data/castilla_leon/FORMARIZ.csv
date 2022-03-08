@@ -1,0 +1,26 @@
+,nombre,location,distance,Entidad
+0,COVIRAN,"{'type': 'Point', 'coordinates': ['41.3186516', '-6.3973316']}",9.412963497794614,supermercado
+1,COVIRAN,"{'type': 'Point', 'coordinates': ['41.3697095', '-6.0969712']}",16.404463356836086,supermercado
+2,Supermercado FROIZ,"{'type': 'Point', 'coordinates': ['41.5028198', '-5.7531448']}",48.099623867990104,supermercado
+3,Asovino Supermercado,"{'type': 'Point', 'coordinates': ['41.5180856', '-5.7554556']}",48.555197080889975,supermercado
+4,Supermercados Dia,"{'type': 'Point', 'coordinates': ['41.5094141', '-5.7428628']}",49.163137528161585,supermercado
+5,Polideportivo municipal,"{'type': 'Point', 'coordinates': ['41.314071', '-6.3992739']}",9.745782351786906,polideportivo
+6,Piscina Municipal,"{'type': 'Point', 'coordinates': ['41.3696698', '-6.1185551']}",14.626001133019006,polideportivo
+7,Polideportivo municipal,"{'type': 'Point', 'coordinates': ['41.2098777', '-6.2706701']}",15.340869377328213,polideportivo
+8,Sports field,"{'type': 'Point', 'coordinates': ['41.3658169', '-6.1038351']}",15.775579634106663,polideportivo
+9,Polideportivo,"{'type': 'Point', 'coordinates': ['41.212829', '-6.4378872']}",19.314137711651014,polideportivo
+10,Hospital Universitario 12 de Octubre,"{'type': 'Point', 'coordinates': ['40.4089372', '-3.71382']}",240.5357639095222,hospital
+11,Hospital Universitario Santa Cristina,"{'type': 'Point', 'coordinates': ['40.414431', '-3.6761187']}",243.12661416808524,hospital
+12,Gregorio Marañón Hospital,"{'type': 'Point', 'coordinates': ['40.4217969', '-3.671019']}",243.15567887423694,hospital
+13,Hospital VOT Madrid,"{'type': 'Point', 'coordinates': ['40.4195247', '-3.6713438']}",243.24139749510735,hospital
+14,Hospital Universitario 12 de Octubre,"{'type': 'Point', 'coordinates': ['40.3760381', '-3.6990068']}",243.3089202004927,hospital
+15,Centro Salud Sayago,"{'type': 'Point', 'coordinates': ['41.3167843', '-6.3947414']}",9.282504123710131,centro de salud
+16,Centro de Salud,"{'type': 'Point', 'coordinates': ['41.2687883', '-6.2182448']}",10.612832169413407,centro de salud
+17,Centro Salud Sayago,"{'type': 'Point', 'coordinates': ['41.3652989', '-6.1155198']}",14.801292230404668,centro de salud
+18,Consultorio Local Salce,"{'type': 'Point', 'coordinates': ['41.3656801', '-6.1119811']}",15.09971332029094,centro de salud
+19,Gerencia Regional de Salud de Castilla y León,"{'type': 'Point', 'coordinates': ['41.2396966', '-6.5235242']}",22.79316819416115,centro de salud
+20,Estación de servicio Cepsa FERMOSELLE,"{'type': 'Point', 'coordinates': ['41.3215983', '-6.3776148']}",7.755041868522021,gasolinera
+21,Estación de servicio Cepsa FERMOSELLE,"{'type': 'Point', 'coordinates': ['41.3645748', '-6.120668']}",14.364570226867018,gasolinera
+22,Estación de Servicio Repsol,"{'type': 'Point', 'coordinates': ['41.2363121', '-6.3827737']}",14.494798710506416,gasolinera
+23,Sayago Carburantes,"{'type': 'Point', 'coordinates': ['41.3681238', '-6.1022965']}",15.938522762062624,gasolinera
+24,Estación de Servicio Repsol,"{'type': 'Point', 'coordinates': ['41.4776498', '-6.1748']}",17.478068884982626,gasolinera

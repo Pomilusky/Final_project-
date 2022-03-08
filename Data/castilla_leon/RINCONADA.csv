@@ -1,0 +1,26 @@
+,nombre,location,distance,Entidad
+0,Supermercado Ferca,"{'type': 'Point', 'coordinates': ['40.589734', '-5.0149969']}",11.46751324732144,supermercado
+1,Supermercado Ferca,"{'type': 'Point', 'coordinates': ['40.6497614', '-4.7018945']}",20.71235786042961,supermercado
+2,SUPERMERCADO AVILA SUR,"{'type': 'Point', 'coordinates': ['40.6460387', '-4.6831006']}",22.343613925145164,supermercado
+3,supermercado mercadon,"{'type': 'Point', 'coordinates': ['40.6616988', '-4.6756333']}",22.759610800711233,supermercado
+4,Supermercados Dia,"{'type': 'Point', 'coordinates': ['40.668998', '-4.660836']}",23.955660910892618,supermercado
+5,Polideportivo de Alamedilla Del Berrocal,"{'type': 'Point', 'coordinates': ['40.7021433', '-4.957481']}",2.9080612734985873,polideportivo
+6,Polideportivo,"{'type': 'Point', 'coordinates': ['40.6509361', '-5.0511655']}",9.480335068183424,polideportivo
+7,Polideportivo,"{'type': 'Point', 'coordinates': ['40.7057621', '-4.7663736']}",15.344306915831774,polideportivo
+8,Polideportivo Aldea del Rey - Arqueros Abulenses,"{'type': 'Point', 'coordinates': ['40.6485356', '-4.7642752']}",15.558283359892137,polideportivo
+9,Ayuntamiento de Chamartín,"{'type': 'Point', 'coordinates': ['40.5830587', '-4.7358916']}",20.532068070323014,polideportivo
+10,Centro Polivalente Hospital Santa Teresa,"{'type': 'Point', 'coordinates': ['40.6502887', '-4.6925986']}",21.479428256635423,hospital
+11,Hospital Provincial,"{'type': 'Point', 'coordinates': ['40.6501965', '-4.6924905']}",21.489937546852776,hospital
+12,Complejo Asistencial de Ávila-Urgencias,"{'type': 'Point', 'coordinates': ['40.6481371', '-4.6825478']}",22.353568164914652,hospital
+13,Hospital Nuestra Señora de Sonsoles,"{'type': 'Point', 'coordinates': ['40.665996', '-4.6672179']}",23.434785843761382,hospital
+14,Hospital Provincial,"{'type': 'Point', 'coordinates': ['40.6658877', '-4.6666992']}",23.479174920864157,hospital
+15,CENTRO DE SALUD SEGURIDAD SOCIAL,"{'type': 'Point', 'coordinates': ['40.6039251', '-4.9007819']}",9.019805593739612,centro de salud
+16,CENTRO DE SALUD SEGURIDAD SOCIAL,"{'type': 'Point', 'coordinates': ['40.585895', '-5.0132257']}",11.760423902897282,centro de salud
+17,Centro de Salud de Blascomillan,"{'type': 'Point', 'coordinates': ['40.8010337', '-4.8691706']}",15.097947217698811,centro de salud
+18,Consultorio Local Muñogalindo,"{'type': 'Point', 'coordinates': ['40.8014607', '-4.8694482']}",15.131231441118347,centro de salud
+19,Centro Salud San Pedro del Arroyo,"{'type': 'Point', 'coordinates': ['40.802169', '-5.0883556']}",18.381462473573823,centro de salud
+20,Estación de Servicio Repsol,"{'type': 'Point', 'coordinates': ['40.7057897', '-5.0196845']}",7.053555640866612,gasolinera
+21,Gasolinera LowCost,"{'type': 'Point', 'coordinates': ['40.7392569', '-5.0105107']}",8.802529443744895,gasolinera
+22,Gasolinera Petronor,"{'type': 'Point', 'coordinates': ['40.5926227', '-4.9666726']}",9.666813934606083,gasolinera
+23,Estación de Servicio Repsol,"{'type': 'Point', 'coordinates': ['40.5806344', '-5.0140932']}",12.307809706447662,gasolinera
+24,Sierra De Ávila,"{'type': 'Point', 'coordinates': ['40.5749778', '-5.0340873']}",13.716960871562481,gasolinera

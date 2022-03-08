@@ -1,0 +1,26 @@
+,nombre,location,distance,Entidad
+0,Carrefour Express,"{'type': 'Point', 'coordinates': ['40.3950193', '-3.6965673']}",111.53855961153636,supermercado
+1,Carrefour Market,"{'type': 'Point', 'coordinates': ['40.3972526', '-3.6945615']}",111.57945421325924,supermercado
+2,Supermercados La Plaza de Dia,"{'type': 'Point', 'coordinates': ['40.3960578', '-3.6931541']}",111.74544666632579,supermercado
+3,Condis,"{'type': 'Point', 'coordinates': ['40.3991549', '-3.6865764']}",112.09152999624625,supermercado
+4,Supermercados La Plaza de Dia,"{'type': 'Point', 'coordinates': ['40.3926488', '-3.690762']}",112.09634817762175,supermercado
+5,Polideportivo Municipal,"{'type': 'Point', 'coordinates': ['40.8695655', '-4.970936']}",8.282976810311558,polideportivo
+6,Polideportivo,"{'type': 'Point', 'coordinates': ['40.9383499', '-4.8720131']}",11.121550251730165,polideportivo
+7,Polideportivo de Constanzana,"{'type': 'Point', 'coordinates': ['40.9352798', '-4.7843782']}",13.496304815816297,polideportivo
+8,Polideportivo,"{'type': 'Point', 'coordinates': ['40.9155574', '-4.7317494']}",15.219088440915234,polideportivo
+9,Polideportivo Municipal,"{'type': 'Point', 'coordinates': ['40.9350408', '-4.7291536']}",16.700426799382104,polideportivo
+10,Hospital Nuestra Señora de Sonsoles,"{'type': 'Point', 'coordinates': ['40.6501965', '-4.6924905']}",26.316674093959662,hospital
+11,Hospital Provincial,"{'type': 'Point', 'coordinates': ['40.665996', '-4.6672179']}",26.348802806042286,hospital
+12,Hospital Nuestra Señora de Sonsoles,"{'type': 'Point', 'coordinates': ['40.6658877', '-4.6666992']}",26.387532957181154,hospital
+13,General Hospital Villalba,"{'type': 'Point', 'coordinates': ['40.6481371', '-4.6825478']}",27.011203882912376,hospital
+14,Complejo Asistencial de Ávila-Urgencias,"{'type': 'Point', 'coordinates': ['40.6548293', '-4.0007599']}",76.9700249679979,hospital
+15,Centro de Salud,"{'type': 'Point', 'coordinates': ['40.8385786', '-4.8814441']}",0.005887352542949436,centro de salud
+16,Centro Salud San Pedro del Arroyo,"{'type': 'Point', 'coordinates': ['40.8014607', '-4.8694482']}",4.252580224686,centro de salud
+17,Consultorio Local Cardeñosa,"{'type': 'Point', 'coordinates': ['40.8010337', '-4.8691706']}",4.304266895710024,centro de salud
+18,Centro Salud San Pedro del Arroyo,"{'type': 'Point', 'coordinates': ['40.9282773', '-4.9631645']}",12.114198728775156,centro de salud
+19,Centro de Salud de Fontíveros,"{'type': 'Point', 'coordinates': ['40.7407674', '-4.745229']}",15.808454558476965,centro de salud
+20,Estación de servicio Cepsa MUÑOGRANDE,"{'type': 'Point', 'coordinates': ['40.8030958', '-4.8730744']}",4.011749857999216,gasolinera
+21,Estación de servicio Cepsa MUÑOGRANDE,"{'type': 'Point', 'coordinates': ['40.829389', '-4.936889']}",4.781897702040653,gasolinera
+22,Valcarce La Moraña,"{'type': 'Point', 'coordinates': ['40.854199', '-4.972909']}",7.8931676375889515,gasolinera
+23,Service Station Hermanos Cruz S.L.,"{'type': 'Point', 'coordinates': ['40.9306085', '-4.9691651']}",12.616878054951302,gasolinera
+24,Estación de Servicio Petronor - Repsol,"{'type': 'Point', 'coordinates': ['40.8547396', '-4.7308427']}",12.793128201686057,gasolinera

@@ -1,0 +1,26 @@
+,nombre,location,distance,Entidad
+0,Lupa Supermercados,"{'type': 'Point', 'coordinates': ['42.7865008', '-4.9734076']}",2.755706645676356,supermercado
+1,Supermercado Marga,"{'type': 'Point', 'coordinates': ['42.800791', '-5.1260345']}",10.168205181167549,supermercado
+2,Autoservicios Familia,"{'type': 'Point', 'coordinates': ['42.804656', '-5.1287922']}",10.497927290020277,supermercado
+3,Supermercados La Plaza de Dia,"{'type': 'Point', 'coordinates': ['42.804989', '-5.1292355']}",10.543008653646401,supermercado
+4,Supermercados La Plaza de Dia,"{'type': 'Point', 'coordinates': ['42.7971878', '-4.8478779']}",13.017973548644331,supermercado
+5,Polideportivo municipal,"{'type': 'Point', 'coordinates': ['42.8008901', '-5.1320666']}",10.648751102993296,polideportivo
+6,Polideportivo,"{'type': 'Point', 'coordinates': ['42.7951479', '-4.8489507']}",12.896913157275595,polideportivo
+7,Complejo Deportivo de Villalba de Guardo,"{'type': 'Point', 'coordinates': ['42.7970881', '-4.8483864']}",12.975233245872595,polideportivo
+8,Piscinas Municipales de Verano,"{'type': 'Point', 'coordinates': ['42.792177', '-4.8449243']}",13.179822500717435,polideportivo
+9,Polideportivo municipal,"{'type': 'Point', 'coordinates': ['42.7910548', '-4.8445719']}",13.194541985820322,polideportivo
+10,Hospital Universitario de León,"{'type': 'Point', 'coordinates': ['42.7898251', '-4.8441404']}",13.215763872999425,hospital
+11,Hospital Universitario de León,"{'type': 'Point', 'coordinates': ['42.6188257', '-5.5724149']}",49.63852721796928,hospital
+12,Centro Médico Recoletas Guardo,"{'type': 'Point', 'coordinates': ['42.6074212', '-5.5942783']}",51.76801429182558,hospital
+13,Hospital Río Carrión,"{'type': 'Point', 'coordinates': ['42.0157053', '-4.540082']}",93.03308425346358,hospital
+14,Hospital San Juan de Dios,"{'type': 'Point', 'coordinates': ['42.0007318', '-4.5394']}",94.57853577067202,hospital
+15,Centro de Salud de Cistierna y CAISS del INSS,"{'type': 'Point', 'coordinates': ['42.8043407', '-5.1298567']}",10.571768649014807,centro de salud
+16,Centro de Salud de Guardo,"{'type': 'Point', 'coordinates': ['42.8051675', '-5.1301262']}",10.618343867012062,centro de salud
+17,Centro de Salud de Guardo,"{'type': 'Point', 'coordinates': ['42.7896612', '-4.848739']}",12.840401975747298,centro de salud
+18,Centro De Salud De Olleros De Sabero,"{'type': 'Point', 'coordinates': ['42.7898251', '-4.8441404']}",13.215763872999425,centro de salud
+19,Gerencia De Atención Primaria De León,"{'type': 'Point', 'coordinates': ['42.8302036', '-5.1844463']}",15.718046632923944,centro de salud
+20,Cobasguar Sociedad Cooperativa,"{'type': 'Point', 'coordinates': ['42.78525', '-4.97878']}",2.295852097933596,gasolinera
+21,Estación de Servicio Repsol,"{'type': 'Point', 'coordinates': ['42.7839367', '-4.9772797']}",2.369069693807879,gasolinera
+22,Estación de Servicio Repsol,"{'type': 'Point', 'coordinates': ['42.8099051', '-5.1308681']}",10.835227747822941,gasolinera
+23,Estación de Servicio Petronor - Repsol,"{'type': 'Point', 'coordinates': ['42.7617309', '-5.1396869']}",11.128720569212222,gasolinera
+24,Fast Fuel,"{'type': 'Point', 'coordinates': ['42.7762161', '-4.8684239']}",11.175230717623476,gasolinera

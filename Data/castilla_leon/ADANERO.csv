@@ -1,0 +1,26 @@
+,nombre,location,distance,Entidad
+0,Supermercado Udaco Coto de Puenteviejo,"{'type': 'Point', 'coordinates': ['40.9944', '-4.5973']}",5.458863062679018,supermercado
+1,Unide,"{'type': 'Point', 'coordinates': ['40.8935949', '-4.581244']}",6.190699460295447,supermercado
+2,Unide,"{'type': 'Point', 'coordinates': ['40.860005', '-4.5620684']}",10.256213116364728,supermercado
+3,Supermercados La Plaza de Dia,"{'type': 'Point', 'coordinates': ['41.05777', '-4.71643']}",15.488754162526359,supermercado
+4,Supermercado Unide,"{'type': 'Point', 'coordinates': ['41.056777', '-4.7187975']}",15.519871065858279,supermercado
+5,Polideportivo y frontón de El Bohodón,"{'type': 'Point', 'coordinates': ['40.9265064', '-4.6390193']}",3.465670179245017,polideportivo
+6,Polideportivo Tomás Luis de Victoria,"{'type': 'Point', 'coordinates': ['40.9263627', '-4.6397318']}",3.5226317307815864,polideportivo
+7,Polideportivo Tomás Luis de Victoria,"{'type': 'Point', 'coordinates': ['40.8885901', '-4.5848674']}",6.62533279859067,polideportivo
+8,Frontón Municipal,"{'type': 'Point', 'coordinates': ['40.9350408', '-4.7291536']}",10.36104424061433,polideportivo
+9,Polideportivo,"{'type': 'Point', 'coordinates': ['40.9155574', '-4.7317494']}",11.037177898848148,polideportivo
+10,General Hospital Villalba,"{'type': 'Point', 'coordinates': ['40.6658877', '-4.6666992']}",31.544828604865415,hospital
+11,Hospital Nuestra Señora de Sonsoles,"{'type': 'Point', 'coordinates': ['40.9430869', '-4.1280504']}",40.21168337948245,hospital
+12,Hospital General De Segovia,"{'type': 'Point', 'coordinates': ['40.9527524', '-4.1240602']}",40.55009147105129,hospital
+13,Hospital Recoletas Segovia,"{'type': 'Point', 'coordinates': ['40.6075747', '-4.1192623']}",55.68497027958966,hospital
+14,General Hospital Villalba,"{'type': 'Point', 'coordinates': ['40.6548293', '-4.0007599']}",60.41702450235058,hospital
+15,Health Center Arévalo,"{'type': 'Point', 'coordinates': ['41.0549918', '-4.7135255']}",15.095450060859715,centro de salud
+16,Villacastín Health Center,"{'type': 'Point', 'coordinates': ['41.0539419', '-4.7214731']}",15.409926065840022,centro de salud
+17,Health Center Arévalo,"{'type': 'Point', 'coordinates': ['41.0696249', '-4.4073636']}",21.66599688708569,centro de salud
+18,Consultorio Médico de Santa María la Real de Nieva,"{'type': 'Point', 'coordinates': ['40.7790801', '-4.4176538']}",24.429414290242317,centro de salud
+19,Mentalia Arévalo,"{'type': 'Point', 'coordinates': ['40.8010337', '-4.8691706']}",27.327904924337822,centro de salud
+20,Estación de Servicio Repsol,"{'type': 'Point', 'coordinates': ['40.9552436', '-4.6146199']}",1.2417343501613387,gasolinera
+21,Repsol,"{'type': 'Point', 'coordinates': ['40.8862363', '-4.6149412']}",6.665139634781208,gasolinera
+22,Cepsa,"{'type': 'Point', 'coordinates': ['41.0066305', '-4.6039105']}",6.76620128098769,gasolinera
+23,Repsol,"{'type': 'Point', 'coordinates': ['40.9981853', '-4.6586348']}",7.2768752359867,gasolinera
+24,Estación de Servicio Repsol,"{'type': 'Point', 'coordinates': ['41.0096489', '-4.665264']}",8.63670764166831,gasolinera

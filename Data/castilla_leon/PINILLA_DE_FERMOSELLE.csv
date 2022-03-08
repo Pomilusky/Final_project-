@@ -1,0 +1,26 @@
+,nombre,location,distance,Entidad
+0,COVIRAN,"{'type': 'Point', 'coordinates': ['41.3867044', '-6.4258791']}",4.2120477108458925,supermercado
+1,COVIRAN,"{'type': 'Point', 'coordinates': ['41.3186516', '-6.3973316']}",6.047266871108744,supermercado
+2,Supermercado Casa Chanqueira,"{'type': 'Point', 'coordinates': ['41.5072502', '-6.28819']}",16.929312333138245,supermercado
+3,Pingo Doce - Miranda do Douro,"{'type': 'Point', 'coordinates': ['41.3697095', '-6.0969712']}",23.601913827866888,supermercado
+4,Asovino Supermercado,"{'type': 'Point', 'coordinates': ['41.1049541', '-6.7250833']}",41.38345955431001,supermercado
+5,Polideportivo municipal,"{'type': 'Point', 'coordinates': ['41.314071', '-6.3992739']}",6.580994810388662,polideportivo
+6,Polideportivo,"{'type': 'Point', 'coordinates': ['41.212829', '-6.4378872']}",18.293642619350234,polideportivo
+7,Polideportivo municipal,"{'type': 'Point', 'coordinates': ['41.2098777', '-6.2706701']}",20.14387207193689,polideportivo
+8,Sports field,"{'type': 'Point', 'coordinates': ['41.209571', '-6.2709447']}",20.163952851306593,polideportivo
+9,Piscina Climatizada de Sardón de los Frailes,"{'type': 'Point', 'coordinates': ['41.6315346', '-4.7451339']}",139.2019880195215,polideportivo
+10,Complejo Asistencial Universitario de Salamanca,"{'type': 'Point', 'coordinates': ['40.9640946', '-5.6732785']}",74.50459002495055,hospital
+11,Hospital Universitario de León,"{'type': 'Point', 'coordinates': ['41.6294871', '-4.7134255']}",141.74245056332734,hospital
+12,Rio Hortega University Hospital,"{'type': 'Point', 'coordinates': ['41.6556947', '-4.7196729']}",141.82672956230334,hospital
+13,General Hospital Villalba,"{'type': 'Point', 'coordinates': ['42.6188257', '-5.5724149']}",153.96053352784412,hospital
+14,Complejo Asistencial Universitario de Salamanca,"{'type': 'Point', 'coordinates': ['40.6548293', '-4.0007599']}",214.9688028805957,hospital
+15,Centro de Salud,"{'type': 'Point', 'coordinates': ['41.3167843', '-6.3947414']}",6.201603217400902,centro de salud
+16,Centro de Salud,"{'type': 'Point', 'coordinates': ['41.2687883', '-6.2182448']}",17.668685279332482,centro de salud
+17,Consultorio Local Salce,"{'type': 'Point', 'coordinates': ['41.2396966', '-6.5235242']}",18.945082492043078,centro de salud
+18,Centro de Salud,"{'type': 'Point', 'coordinates': ['41.3652989', '-6.1155198']}",22.064075269526487,centro de salud
+19,Centro Salud Sayago,"{'type': 'Point', 'coordinates': ['41.5132504', '-5.732231']}",56.24476253720772,centro de salud
+20,Estación de Servicio Repsol,"{'type': 'Point', 'coordinates': ['41.3928425', '-6.4240675']}",4.403425561240447,gasolinera
+21,Estación de servicio Cepsa FERMOSELLE,"{'type': 'Point', 'coordinates': ['41.3215983', '-6.3776148']}",5.540816213630759,gasolinera
+22,E.S. DIEZ CENTIMOS S.L.,"{'type': 'Point', 'coordinates': ['41.2363121', '-6.3827737']}",15.026249844561542,gasolinera
+23,Estación de servicio Cepsa FERMOSELLE,"{'type': 'Point', 'coordinates': ['41.4776498', '-6.1748']}",20.779269874914274,gasolinera
+24,Estación de Servicio Repsol,"{'type': 'Point', 'coordinates': ['41.3681238', '-6.1022965']}",23.159802967843966,gasolinera

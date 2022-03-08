@@ -1,0 +1,26 @@
+,nombre,location,distance,Entidad
+0,Unide Supermercado,"{'type': 'Point', 'coordinates': ['41.2975973', '-3.7485403']}",10.535951944573968,supermercado
+1,Unide Supermercado,"{'type': 'Point', 'coordinates': ['41.2963657', '-3.9329979']}",10.757092009058736,supermercado
+2,Supermercado Udaco Blanca Poza,"{'type': 'Point', 'coordinates': ['41.2712088', '-3.8832232']}",10.842874685704013,supermercado
+3,Autoservicio Heraclio,"{'type': 'Point', 'coordinates': ['41.2587034', '-3.9215116']}",13.468783799247788,supermercado
+4,Carrefour Express,"{'type': 'Point', 'coordinates': ['41.2578848', '-3.9240807']}",13.656867749057115,supermercado
+5,Frontón Villaseca,"{'type': 'Point', 'coordinates': ['41.3574387', '-3.775686']}",5.382320775326835,polideportivo
+6,Pista Polideportiva,"{'type': 'Point', 'coordinates': ['41.2808214', '-3.8093562']}",9.491800955400173,polideportivo
+7,"Polideportivo ""Felix Arranz""","{'type': 'Point', 'coordinates': ['41.3006336', '-3.7347776']}",11.18161507268332,polideportivo
+8,Pista municipal de Pádel de Urueñas,"{'type': 'Point', 'coordinates': ['41.2562725', '-3.9264753']}",13.913987674267423,polideportivo
+9,"Polideportivo ""Felix Arranz""","{'type': 'Point', 'coordinates': ['41.3787492', '-4.0058495']}",13.975975628435789,polideportivo
+10,Hospital Santos Reyes,"{'type': 'Point', 'coordinates': ['41.6695739', '-3.6915641']}",36.257061579838215,hospital
+11,General Hospital Villalba,"{'type': 'Point', 'coordinates': ['40.9430869', '-4.1280504']}",52.58361253746407,hospital
+12,Hospital Universitari de Guadalajara,"{'type': 'Point', 'coordinates': ['40.6548293', '-4.0007599']}",79.92448480800901,hospital
+13,Hospital Santos Reyes,"{'type': 'Point', 'coordinates': ['40.6195851', '-3.1521937']}",100.8452704887592,hospital
+14,Hospital General De Segovia,"{'type': 'Point', 'coordinates': ['40.4650902', '-3.435013']}",105.5109307094916,hospital
+15,Consultorio de Atención Primaria,"{'type': 'Point', 'coordinates': ['41.3415137', '-3.9349069']}",8.300613001214701,centro de salud
+16,Sepúlveda Health Center,"{'type': 'Point', 'coordinates': ['41.2995753', '-3.7432538']}",10.71304119451243,centro de salud
+17,Sepúlveda Health Center,"{'type': 'Point', 'coordinates': ['41.459981', '-3.7795574']}",11.891623220635637,centro de salud
+18,Ayuntamiento De Navalilla Consultorio Médico,"{'type': 'Point', 'coordinates': ['41.2582347', '-3.9198954']}",13.445974252307858,centro de salud
+19,Cantalejo Health Center,"{'type': 'Point', 'coordinates': ['41.4935792', '-3.9610839']}",17.6973916695266,centro de salud
+20,Beroil,"{'type': 'Point', 'coordinates': ['41.3974586', '-3.9518867']}",10.112849519003841,gasolinera
+21,Beroil Cantalejo,"{'type': 'Point', 'coordinates': ['41.2986918', '-3.7447862']}",10.682763567950623,gasolinera
+22,G CANTALEJO,"{'type': 'Point', 'coordinates': ['41.2646188', '-3.9281203']}",13.206566469425841,gasolinera
+23,G CANTALEJO,"{'type': 'Point', 'coordinates': ['41.2644101', '-3.929306']}",13.281389069761575,gasolinera
+24,BRAVOIL BERNUY,"{'type': 'Point', 'coordinates': ['41.4413967', '-3.6763331']}",16.178449650495327,gasolinera

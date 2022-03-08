@@ -1,0 +1,26 @@
+,nombre,location,distance,Entidad
+0,Carrefour Express,"{'type': 'Point', 'coordinates': ['41.6989927', '-6.3487065']}",13.116934066172602,supermercado
+1,Carrefour Express,"{'type': 'Point', 'coordinates': ['41.6990896', '-6.3468567']}",13.229736478182781,supermercado
+2,Coviran,"{'type': 'Point', 'coordinates': ['41.9405409', '-6.2849532']}",24.174857189589495,supermercado
+3,Supermercado Valdalla,"{'type': 'Point', 'coordinates': ['41.8990052', '-6.1956757']}",26.78482761495872,supermercado
+4,Supermercado Marife,"{'type': 'Point', 'coordinates': ['41.5180856', '-5.7554556']}",65.93071535515557,supermercado
+5,Centro Deportivo Cultural Delicias,"{'type': 'Point', 'coordinates': ['40.3990436', '-3.7048444']}",277.74744265004045,polideportivo
+6,Polideportivo Daoiz y Velarde,"{'type': 'Point', 'coordinates': ['40.4025284', '-3.6958622']}",278.1586102274332,polideportivo
+7,Integrated Dotacional center Arganzuela,"{'type': 'Point', 'coordinates': ['40.3981483', '-3.6902159']}",278.8279062942247,polideportivo
+8,Polideportivo Municipal de la Arganzuela,"{'type': 'Point', 'coordinates': ['40.3943884', '-3.6913139']}",278.9861445470099,polideportivo
+9,Polideportivo Municipal de la Arganzuela,"{'type': 'Point', 'coordinates': ['40.4024772', '-3.6775513']}",279.4466738053707,polideportivo
+10,Bragança Hospital,"{'type': 'Point', 'coordinates': ['41.8020723', '-6.7680274']}",24.807737973908694,hospital
+11,Public Welfare Complex De Zamora,"{'type': 'Point', 'coordinates': ['41.5172718', '-5.7469789']}",66.60627895090832,hospital
+12,Bragança Hospital,"{'type': 'Point', 'coordinates': ['41.5144616', '-5.7313506']}",67.91590436058605,hospital
+13,Hospital Recoletas Zamora,"{'type': 'Point', 'coordinates': ['41.511571', '-5.7279945']}",68.30631954229177,hospital
+14,Provincial Hospital Zamora,"{'type': 'Point', 'coordinates': ['42.6188257', '-5.5724149']}",119.7111129165596,hospital
+15,Aliste Centro de Salud,"{'type': 'Point', 'coordinates': ['41.8667548', '-6.437646']}",10.760773791154957,centro de salud
+16,Consultorio Médico de Figueruela de Arriba,"{'type': 'Point', 'coordinates': ['41.7001339', '-6.3462575']}",13.196585379906383,centro de salud
+17,Aliste Centro de Salud,"{'type': 'Point', 'coordinates': ['41.6967805', '-6.3463037']}",13.427153688463168,centro de salud
+18,centro medico de salud,"{'type': 'Point', 'coordinates': ['41.6958738', '-6.3446946']}",13.5944329590157,centro de salud
+19,"Colegio Público ""Virgen de la Salud""","{'type': 'Point', 'coordinates': ['41.5132504', '-5.732231']}",67.90743728789765,centro de salud
+20,"SERVICE STATION FERTOL, S.R.L.","{'type': 'Point', 'coordinates': ['41.734029', '-6.4684']}",4.378703279007017,gasolinera
+21,Service Station La Chuca,"{'type': 'Point', 'coordinates': ['41.7788442', '-6.3697785']}",8.450580574803366,gasolinera
+22,Estación de servicio Cepsa SAN VITERO,"{'type': 'Point', 'coordinates': ['41.7850676', '-6.3483748']}",10.286344954058578,gasolinera
+23,Estación de servicio Cepsa SAN VITERO,"{'type': 'Point', 'coordinates': ['41.6973062', '-6.3422941']}",13.649771820004323,gasolinera
+24,Estación De Servicio Cepsa San Vitero,"{'type': 'Point', 'coordinates': ['41.6830133', '-6.3017217']}",17.299690088374867,gasolinera
