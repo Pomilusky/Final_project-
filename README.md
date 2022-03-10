@@ -1,5 +1,4 @@
 # Moving to paradise 🏞:
-$ <p align="center"> <img /![elgif]()> </p>
 <div style="text-align:center"><img src ="https://trabajadorasocialdepueblocom.files.wordpress.com/2020/08/wp-1598249473318.gif?w=498&zoom=2" /></div>
 
 
