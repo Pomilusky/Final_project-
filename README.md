@@ -1,5 +1,8 @@
-# Moving to paradise:
-Since mid 20th century there has been a migration of the Spanish population, from the interior to the main cities, such as Madrid or Barcelona.  
-Since Covid-19 the concept of office has been redefined. Everyday, working from home is more and more common. That has pushed the interest of people to leave the big cities and move. Seeking better prices, tranquility and peace in smaller villages, which at the same time are looking forward to welcome new inhabitants.
+# Moving to paradise 🏞:
+![elgif](https://trabajadorasocialdepueblocom.files.wordpress.com/2020/08/wp-1598249473318.gif?w=498&zoom=2)
+Des de la aparición de la revolución industrial la población de zonas rurales en España he seguido una tendéncia de migración hacia las grandes ciudades. Esto ha llevado a la despoblación de ciertas zonas de España que siguen viendo como sus datos demográficos son cada vez menos esperanzadores.
 
-With this premise I have created some tools to gather data from villages in some depopulated areas in spain in order to help people decide where is it best for them to leave. This database has been created in Mongo DB, so it is a Non relational database. 
+Lo cierto es que en los últimos años ha aparecido el concepto de 'home office', trabajar des de casa o "tele-trabajar" es cada vez más frecuente en el mundo digital, ya sea parcialmente o totalmente. Esto ha hecho que aparezcan perfiles de gente que desea mudarse fuera de las ciudades, en busca de tranquilidad y salud. 
+
+# La base de datos 🗃:
+Con el fin de crear una herramienta para toda esa gente que quiera mudarse al campo pero no sepa por donde empezar hemos decidido crear una aplicación.  

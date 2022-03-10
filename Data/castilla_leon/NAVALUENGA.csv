@@ -1,26 +1,26 @@
-,nombre,location,distance,Entidad
-0,Supermercados Dia,"{'type': 'Point', 'coordinates': ['40.4131478', '-4.7067988']}",0.24122807217239878,supermercado
-1,Autoservicio La Plazuela C B,"{'type': 'Point', 'coordinates': ['40.414755', '-4.7863341']}",6.665016593218777,supermercado
-2,Supermercados Dia,"{'type': 'Point', 'coordinates': ['40.4755277', '-4.6420133']}",9.073289761358797,supermercado
-3,Supermercados Dia,"{'type': 'Point', 'coordinates': ['40.4774953', '-4.6451054']}",9.091866023140836,supermercado
-4,Covirán Supermercado,"{'type': 'Point', 'coordinates': ['40.3179165', '-4.6991467']}",10.391464516393526,supermercado
-5,Escuela Infantil de Piedralaves,"{'type': 'Point', 'coordinates': ['40.4785317', '-4.6837909']}",7.768954998945442,escuela
-6,auto escuela vitor,"{'type': 'Point', 'coordinates': ['40.3162051', '-4.701156']}",10.570947595006988,escuela
-7,Escuela Cinologica Salvamento y Rescate Acuatico # ECSAR.,"{'type': 'Point', 'coordinates': ['40.3138999', '-4.70638']}",10.813088715346845,escuela
-8,Escuelas,"{'type': 'Point', 'coordinates': ['40.4194287', '-4.5623638']}",12.348915940317701,escuela
-9,Escuelas,"{'type': 'Point', 'coordinates': ['40.4678023', '-4.8489244']}",13.510274459783954,escuela
-10,Hosñigal De Avila,"{'type': 'Point', 'coordinates': ['40.4148959', '-4.5020027']}",17.431491764821182,hospital
-11,Hospital Nuestra Señora de Sonsoles,"{'type': 'Point', 'coordinates': ['40.6501965', '-4.6924905']}",26.623959367140817,hospital
-12,Hosñigal De Avila,"{'type': 'Point', 'coordinates': ['40.6658877', '-4.6666992']}",28.549790281124153,hospital
-13,Hospital Provincial,"{'type': 'Point', 'coordinates': ['40.2476104', '-4.2763366']}",40.85344394359824,hospital
-14,Hospital Virgen de la Poveda,"{'type': 'Point', 'coordinates': ['40.6548293', '-4.0007599']}",65.6279641266124,hospital
-15,Burgohondo Centro de Salud,"{'type': 'Point', 'coordinates': ['40.4112839', '-4.7053688']}",0.20491707396789854,centro de salud
-16,Burgohondo Centro de Salud,"{'type': 'Point', 'coordinates': ['40.4145081', '-4.7852525']}",6.571967259163958,centro de salud
-17,Consultorio de Atención Primaria,"{'type': 'Point', 'coordinates': ['40.4758982', '-4.6406547']}",9.17661513397972,centro de salud
-18,Enrique Montero Rivera,"{'type': 'Point', 'coordinates': ['40.3785105', '-4.8220967']}",10.340515817314333,centro de salud
-19,Centro de salud,"{'type': 'Point', 'coordinates': ['40.31767', '-4.69397']}",10.458774507541074,centro de salud
-20,Gregoria Salcedo Martín,"{'type': 'Point', 'coordinates': ['40.4137798', '-4.6958094']}",1.0561405180669188,gasolinera
-21,Gasolinera Goexpress 24 horas,"{'type': 'Point', 'coordinates': ['40.411774', '-4.774748']}",5.672097616101389,gasolinera
-22,Estación de Servicio Repsol,"{'type': 'Point', 'coordinates': ['40.478173', '-4.6469369']}",9.06419940611698,gasolinera
-23,Estación de Servicio J U A N J O,"{'type': 'Point', 'coordinates': ['40.47695', '-4.64255']}",9.17126618948176,gasolinera
-24,Estación de Servicio Repsol,"{'type': 'Point', 'coordinates': ['40.4511474', '-4.5822144']}",11.525683057247269,gasolinera
+,nombre,location,distance,Entidad,Pueblo_desde
+0,Supermercados Dia,"{'type': 'Point', 'coordinates': ['40.4131478', '-4.7067988']}",0.2412280721723987,supermercado,NAVALUENGA
+1,Autoservicio La Plazuela C B,"{'type': 'Point', 'coordinates': ['40.414755', '-4.7863341']}",6.665016593218777,supermercado,NAVALUENGA
+2,Supermercados Dia,"{'type': 'Point', 'coordinates': ['40.4755277', '-4.6420133']}",9.073289761358796,supermercado,NAVALUENGA
+3,Supermercados Dia,"{'type': 'Point', 'coordinates': ['40.4774953', '-4.6451054']}",9.091866023140836,supermercado,NAVALUENGA
+4,Covirán Supermercado,"{'type': 'Point', 'coordinates': ['40.3179165', '-4.6991467']}",10.391464516393526,supermercado,NAVALUENGA
+5,Escuela Infantil de Piedralaves,"{'type': 'Point', 'coordinates': ['40.4785317', '-4.6837909']}",7.768954998945442,escuela,NAVALUENGA
+6,auto escuela vitor,"{'type': 'Point', 'coordinates': ['40.3162051', '-4.701156']}",10.570947595006988,escuela,NAVALUENGA
+7,Escuela Cinologica Salvamento y Rescate Acuatico # ECSAR.,"{'type': 'Point', 'coordinates': ['40.3138999', '-4.70638']}",10.813088715346844,escuela,NAVALUENGA
+8,Escuelas,"{'type': 'Point', 'coordinates': ['40.4194287', '-4.5623638']}",12.3489159403177,escuela,NAVALUENGA
+9,Escuelas,"{'type': 'Point', 'coordinates': ['40.4678023', '-4.8489244']}",13.510274459783954,escuela,NAVALUENGA
+10,Hosñigal De Avila,"{'type': 'Point', 'coordinates': ['40.4148959', '-4.5020027']}",17.431491764821182,hospital,NAVALUENGA
+11,Hospital Nuestra Señora de Sonsoles,"{'type': 'Point', 'coordinates': ['40.6501965', '-4.6924905']}",26.623959367140817,hospital,NAVALUENGA
+12,Hosñigal De Avila,"{'type': 'Point', 'coordinates': ['40.6658877', '-4.6666992']}",28.549790281124157,hospital,NAVALUENGA
+13,Hospital Provincial,"{'type': 'Point', 'coordinates': ['40.2476104', '-4.2763366']}",40.85344394359824,hospital,NAVALUENGA
+14,Hospital Virgen de la Poveda,"{'type': 'Point', 'coordinates': ['40.6548293', '-4.0007599']}",65.6279641266124,hospital,NAVALUENGA
+15,Burgohondo Centro de Salud,"{'type': 'Point', 'coordinates': ['40.4112839', '-4.7053688']}",0.2049170739678985,centro de salud,NAVALUENGA
+16,Burgohondo Centro de Salud,"{'type': 'Point', 'coordinates': ['40.4145081', '-4.7852525']}",6.571967259163958,centro de salud,NAVALUENGA
+17,Consultorio de Atención Primaria,"{'type': 'Point', 'coordinates': ['40.4758982', '-4.6406547']}",9.17661513397972,centro de salud,NAVALUENGA
+18,Enrique Montero Rivera,"{'type': 'Point', 'coordinates': ['40.3785105', '-4.8220967']}",10.340515817314332,centro de salud,NAVALUENGA
+19,Centro de salud,"{'type': 'Point', 'coordinates': ['40.31767', '-4.69397']}",10.458774507541074,centro de salud,NAVALUENGA
+20,Gregoria Salcedo Martín,"{'type': 'Point', 'coordinates': ['40.4137798', '-4.6958094']}",1.0561405180669188,gasolinera,NAVALUENGA
+21,Gasolinera Goexpress 24 horas,"{'type': 'Point', 'coordinates': ['40.411774', '-4.774748']}",5.672097616101389,gasolinera,NAVALUENGA
+22,Estación de Servicio Repsol,"{'type': 'Point', 'coordinates': ['40.478173', '-4.6469369']}",9.06419940611698,gasolinera,NAVALUENGA
+23,Estación de Servicio J U A N J O,"{'type': 'Point', 'coordinates': ['40.47695', '-4.64255']}",9.17126618948176,gasolinera,NAVALUENGA
+24,Estación de Servicio Repsol,"{'type': 'Point', 'coordinates': ['40.4511474', '-4.5822144']}",11.525683057247267,gasolinera,NAVALUENGA

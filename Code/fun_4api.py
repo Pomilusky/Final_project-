@@ -16,7 +16,7 @@ def creacion_mapa(n_pueblo = 'ADANERO'):
     entidades_pueblo=db.emptiedSpain.find({'Pueblo_desde':n_pueblo.replace(' ','_')})
     info_pueblo = pd.DataFrame(db.emptiedSpain.find({'Entidad Singular de Población':n_pueblo}))
     # display(info_pueblo)
-    df = pd.DataFrame(entidades_pueblo)
+    
     centro = info_pueblo.iloc[0].location['coordinates'][::-1] # ojo, tengo que leerlo al reves pq en mongo la longitud va antes
     informaciontiempo = info_pueblo.iloc[0]['Weather_info']
     infofibra = str(info_pueblo.iloc[0]['Cobertura redes fijas ≥ 100Mbps']*100)
@@ -28,6 +28,9 @@ def creacion_mapa(n_pueblo = 'ADANERO'):
     popamunt = folium.Popup(iframe, min_width=300, max_width=300)
     folium.CircleMarker(centro, popup=popamunt,tooltip='<strong>Información del pueblo</strong>', radius=10,fill_color='green', color = 'green', 
     icon=folium.Icon(color='green',prefix='glyphicon',icon='on')).add_to(mapa)
+
+    df = pd.DataFrame(entidades_pueblo)
+    # display(df)
     for i in range(df.shape[0]):
         point = df.iloc[i]
         st = point['nombre']
