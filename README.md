@@ -1,5 +1,5 @@
 # Moving to paradise 🏞:
-<div style="text-align:center"><img src ="https://trabajadorasocialdepueblocom.files.wordpress.com/2020/08/wp-1598249473318.gif?w=498&zoom=2" /></div>
+<div align=center><img src ="https://trabajadorasocialdepueblocom.files.wordpress.com/2020/08/wp-1598249473318.gif?w=498&zoom=2" /></div>
 
 
 Des de la aparición de la revolución industrial la población de zonas rurales en España he seguido una tendéncia de migración hacia las grandes ciudades. Esto ha llevado a la despoblación de ciertas zonas de España que siguen viendo como sus datos demográficos son cada vez menos esperanzadores.
