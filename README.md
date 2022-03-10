@@ -1,4 +1,4 @@
-# Moving to paradise 🏞:
+# [Movin' Out](https://www.youtube.com/watch?v=cJtL8vWNZ4o&ab_channel=billyjoelVEVO) 🏞:
 <div align=center><img src ="https://trabajadorasocialdepueblocom.files.wordpress.com/2020/08/wp-1598249473318.gif?w=498&zoom=2" /></div>
 
 
@@ -29,10 +29,21 @@ Por la diversidad en los datos decidí usar el sistema de MongoDB. Es decir, la 
 
 Todos los elementos incluidos en la base de datos tienen diferente información referente a cada entidad. Pero hay 2 elementos presentes en todas las entidades, un geopunto que identifica la localización de la entidad, y un elemento que describe el tipo de entidad. Es decir, que siempre podemos saber si hablamos de un pueblo, un hospital, una escuela o otra una entidad de otro tipo y sabemos donde se encuentra. 
 
+La idea es que una futura aplicación pudiera hacer geoqueries para filtrar entre poblaciones. Si en un futuro enriquecieramos la base de datos con muchos más datos de toda España sería fácil filtrar pueblos por distancia a centros de salud, escuelas, etc. 
 
+# La API 🗺:
+La interfaz que he creado en el servidor de mi ordenador es muy senzilla y solo pretende ejemplificar la utilidad de la base de datos creada. La idea es que tenga dos funciones principales. 
 
+Una de ellas esta ya terminada y operativa. Es posible buscar un pueblo de Castilla León y que nos muestre el pueblo, con información sobre el mismo. Información referente al clima, conectividad, etc. Además también aparecen en el mapa un grupo de entidades cercanas a la población.
+
+La otra función que debería inculir esta api es un filtro. La idea sería poder llamar des de la api una geoquerie y que nos diera, por ejemplo, todos los pueblos que queden a menos de 20km de un hospital. De tal forma que aplicando un numero elevado de filtros pudieramos reducir mucho el numero de pueblos, y encontrar el mejor pueblo para nuestro usuario. Esta función no la he acabado, entre otras cosas por la falta de datos en la base de datos, que se encuentra en un estadio muy inicial. 
 
 # Further Steps 🚀:
+Este ha sido el proyecto final que he hecho en IRONHACK, he tenido apenas 10 días para desarroyarlo. Es por eso que el producto final es simplemente una pequeña muestra de lo que podría llegar a ser si un día decido crear, realmente, una base de datos que tenga una utilidad real y sea operativa. Hay muchisimas cosas que han quedado por hacer, así que voy a listar alguna de ellas por el orden que creo más adiente:
+* Mejora del scrapeo, recopilación de datos sobre todos y cada uno de los pueblos de Castilla León,
+* Extrapolar a todo el estado español. La creación de funciones que valen para los datos en Castilla León admite que se pueda extrapolar a todo el estado, o incluso con las debidas modificaciones es extrapolable a cualquier zona del planeta (¡dónde haya pueblos!😂).
+* Creación de geoqueries que sirvan para filtrar de forma eficiente y adequada la base de datos. 
+* Mejora de la interfaz, a nivel estetico pero sobretodo funcional, incluir mucha más información y estructurarla para que sea útil. 
 
 # Bibliografia 📚: <a name="bibliografia"></a>
 ### Libraries:
