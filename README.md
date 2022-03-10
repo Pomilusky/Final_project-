@@ -10,12 +10,14 @@ Con el fin de crear una herramienta para toda esa gente que quiera mudarse al ca
 
 Finalmente, aunque no tenemos una compañera para crear la aplicación como tal he decidido crear una API con flask para poder ejemplificar los resultados obtenidos.
 
+He subido en el repo toda la info que usado, tanto el código usado (con un 1 los archivos dedicados a la recopilación, con un 2 los dedicados a la creación de la base de datos y con un 3 los dedicados a la creación de la api), como los datos. Las fuentes de los datos estan citadas en la [Bibliografia](#bibliografia). 
+
 
 # La recopilación de los datos 👷🏼‍♂️: 
 
 # La base de datos 🗃:
 
-# Bibliografia 📚:
+# Bibliografia 📚: <a name="bibliografia"></a>
 ### Libraries:
 * [Pandas](https://pandas.pydata.org/)
 * [Numpy](https://numpy.org/doc/1.18/)
