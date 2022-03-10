@@ -14,8 +14,25 @@ He subido en el repo toda la info que usado, tanto el código usado (con un 1 lo
 
 
 # La recopilación de los datos 👷🏼‍♂️: 
+Vimos que lo más importante para la mayoría de gente que quería mudarse un elemento importante era mantener una buena conexión a la red. Es por eso que decidí basar mi base de datos en un archivo csv sacado del Instituto Nacional de Estadística (INE) que indicaba la conectividad en cada Entidad poblacional de España (a internet, >= 30mb y >= 100mb y 3g y 4g). 
+
+Por simplicidad decidí ceñirme a estudiar las entidades poblacionales en Castilla-León, por ser una comunidad autónoma con poca densidad de población, y la principal víctima de la despoblación de zonas rurales. 
+
+Pues bien, tuve que buscar información de diferentes formas. Combine el uso de datos extraídos del INE en forma de csvs y el scrapeo de diferentes fuentes, tales como [Wikipedia](https://es.wikipedia.com) o [GoogleMaps](https://googlemaps.es). 
+
+Hemos recogido datos de muchas naturalezas distintas para enriquecer la base de datos, tales como la población en cada población y del municipio al que pertenece, el partido politico que govierna en los municipios, datos climaticos o entidades cercanas (entidades como polideportivos, hospitales o centros comerciales). 
+
+Un dato importante que no hemos recopilado pero sería interesante intentar incluir de cara a un futuro es el precio del suelo en cada población y la disponibilidad de viviendas.
 
 # La base de datos 🗃:
+Por la diversidad en los datos decidí usar el sistema de MongoDB. Es decir, la base de datos es no relacional. Aunque si que le he dado una estructura.
+
+Todos los elementos incluidos en la base de datos tienen diferente información referente a cada entidad. Pero hay 2 elementos presentes en todas las entidades, un geopunto que identifica la localización de la entidad, y un elemento que describe el tipo de entidad. Es decir, que siempre podemos saber si hablamos de un pueblo, un hospital, una escuela o otra una entidad de otro tipo y sabemos donde se encuentra. 
+
+
+
+
+# Further Steps 🚀:
 
 # Bibliografia 📚: <a name="bibliografia"></a>
 ### Libraries:
@@ -24,10 +41,13 @@ He subido en el repo toda la info que usado, tanto el código usado (con un 1 lo
 * [ReGex](https://docs.python.org/3/library/re.html)
 * [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 * [Pymongo](https://pymongo.readthedocs.io/en/stable/)
-### Fuentes de datos:
-* [GoogleMaps](https://googlemaps.es)
-* [Wikipedia](https://es.wikipedia.com)
-* [Instituto Nacional de Estadística (INE)](https://ine.es)
+* [Selenium](https://selenium-python.readthedocs.io/)
+* [Beautiful Soup (bs4)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
+### Fuentes de datos:
+* [Instituto Nacional de Estadística (INE)](https://ine.es)
+* [Wikipedia](https://es.wikipedia.com)
+* [Weather Spark](https://es.weatherspark.com/)
+* [GoogleMaps](https://googlemaps.es)
 
  
