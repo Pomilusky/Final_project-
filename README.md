@@ -1,5 +1,5 @@
 # Moving to paradise 🏞:
-![elgif](https://trabajadorasocialdepueblocom.files.wordpress.com/2020/08/wp-1598249473318.gif?w=498&zoom=2)
+<p align="center"> <img /![elgif](https://trabajadorasocialdepueblocom.files.wordpress.com/2020/08/wp-1598249473318.gif?w=498&zoom=2)> </p>
 
 
 
